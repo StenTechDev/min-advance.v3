@@ -1,6 +1,6 @@
 html { overflow-y: scroll; box-sizing: border-box; font-size: 112.5%; }
-html.light { --bck-color: #e8e8e8; --ft-color: #24292e; --link-color: #1900ff; --header-color: #a0a0a0; --mk-bckg: #FDFD96; --mk-color: #24292e; --ft-desc: #6b645d; }
 html.dark { --bck-color: #282923; --ft-color: #DDD; --link-color: #ffd5a4; --header-color: #000; --mk-bckg: rgba(144,238,144, 0.35); --mk-color: #DDD; --ft-desc: #999; }
+html.light { --bck-color: #e8e8e8; --ft-color: #24292e; --link-color: #1900ff; --header-color: #a0a0a0; --mk-bckg: #FDFD96; --mk-color: #24292e; --ft-desc: #6b645d; }
 body { background-color: var(--bck-color); color: var(--ft-color); margin: 0px; padding: 0px; line-height: 1.5rem; font-family: "DejaVu Sans", sans-serif; }
 .container { max-width: 45rem; margin: 1rem auto; padding: 0px 3%; }
 a:link, a:visited, a:active { color: var(--link-color); text-decoration: none; }
