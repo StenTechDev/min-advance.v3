@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d WEB-PORTFOLIO"
+    "deploy": "gh-pages -d web-portfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://stentechdev.github.io/portfolioWebsite1",
+  "homepage": "https://StenTechDev.github.io/portfolioWebsite1",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
