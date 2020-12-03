@@ -139,6 +139,10 @@ img {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 6px 0px; 
 }
 
+#smTitle {
+  line-height: 3rem;
+}
+
 .picbox { 
   display: inline-block; 
   margin: 0.5em; 
