@@ -7,7 +7,7 @@ html {
 html.dark { 
   --bck-color: #282923; 
   --ft-color: #DDD; 
-  --link-color: #ffd5a4; 
+  --link-color: #a4ceff; 
   --header-color: #000; 
   --mk-bckg: rgba(144,238,144, 0.35); 
   --mk-color: #DDD; --ft-desc: #999; 
@@ -16,7 +16,7 @@ html.dark {
 html.light { 
   --bck-color: #e8e8e8; 
   --ft-color: #24292e; 
-  --link-color: #1900ff; 
+  --link-color: #c47500; 
   --header-color: #a0a0a0; 
   --mk-bckg: #FDFD96; 
   --mk-color: #24292e; 
